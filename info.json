@@ -5,6 +5,6 @@
     "author": "BinaryPulsar",
     "contact": "huaen.lim@gmail.com",
     "factorio_version": "1.1",
-    "dependencies": ["base >= 1.1", "boblogistics >= 1.2.0"],
+    "dependencies": ["base >= 1.1", "boblogistics >= 1.2.0", "? reskins-library >= 2.1.6"],
     "description": "Adds additional pipes to Bob's Logistics."
   }
